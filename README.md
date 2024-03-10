@@ -1,5 +1,8 @@
 # WeatherDemo
 
+User can see information about air quality, weather condition, astronomy and weather by the hour. User can search for a specific country and city for information.
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
 ## Development server
